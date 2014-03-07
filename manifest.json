@@ -22,6 +22,7 @@
     }
   },
   "permissions": [
+    "geolocation",
     "https://maps.googleapis.com/*",
     "<all_urls>"
   ]
